@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FEL_ADO": {
+      "commandName": "Project",
+      "commandLineArgs": "\"JRAH-PC\\SQLEXPRESS\" \"SIAC_SP\" \"FEL_SP\" \"delta\" \"delta\" \"1\" \"3\" \"A\" \"1\""
+    }
+  }
+}

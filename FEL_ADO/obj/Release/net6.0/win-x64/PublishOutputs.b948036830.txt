@@ -1,0 +1,3 @@
+C:\Users\Jose Alonso\Documents\Ado Publish\X64\FEL_ADO.pdb
+C:\Users\Jose Alonso\Documents\Ado Publish\X64\sni.dll
+C:\Users\Jose Alonso\Documents\Ado Publish\X64\FEL_ADO.exe
